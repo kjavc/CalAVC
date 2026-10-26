@@ -522,18 +522,6 @@
       "description": "11:00 AM – 1:00 PM · Location TBD"
     },
     {
-      "id": "ss-late-start-classes-2026",
-      "title": "Fall Late-Start Classes Begin",
-      "start": "2026-10-13",
-      "end": "2026-10-13",
-      "owner": "student-services",
-      "category": "other",
-      "audience": ["general-campus"],
-      "source": "academic-calendar",
-      "businessDayBlocking": false,
-      "description": "All day"
-    },
-    {
       "id": "ss-bot-meeting-2026-10-13",
       "title": "Board of Trustees Meeting",
       "start": "2026-10-13",
@@ -567,8 +555,7 @@
       "audience": ["general-campus"],
       "source": "academic-calendar",
       "businessDayBlocking": false,
-      "description": "12:00 AM – 12:30 AM (as listed) · PAT",
-      "notes": "Source flyer lists the time as 12:00 AM – 12:30 AM, which is likely a typo (possibly 12:00 PM); confirm with Student Services."
+      "description": "12:00 PM – 12:30 PM · PAT"
     },
     {
       "id": "ss-sti-testing-2026",
